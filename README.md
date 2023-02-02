@@ -1,2 +1,1 @@
-# infa_2022_petukhov
-sometext
+# infa_2022
